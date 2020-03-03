@@ -1,6 +1,6 @@
-# Project Name
+# Mint Replica
 
-> One paragraph statement about the project.
+>  The goal here is to produce an exact replica of Mint.com for signing up new users.Mint have been highly praised for the design and simplicity of their site, and their signup process is very clean
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,11 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML,
+- CSS,
+- Visual Studio Code
 
-## Live Demo
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -25,49 +23,26 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+git clone https://github.com/shubham14p3/mint_replica.git
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Shubham**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@shubham14p3](https://github.com/shubham14p3/)
+- Linkedin: [@shubham14p3](https://linkedin.com/shubham14p3)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/shubham14p3/mint_replica/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
