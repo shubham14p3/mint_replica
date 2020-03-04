@@ -3,17 +3,21 @@ body {
   background-color: #eceef1;
   font-family: AvenirNext,Avenir,'Helvetica Neue',Helvetica,Arial,sans-serif;
 }
+
 a {
   text-decoration: none;
   color: #0077c5;
 }
+
 ul {
   list-style-type: none;
 }
+
 /* Top styles */
 .navigation-wrapper {
   height: 60px;
 }
+
 .navigation-container {
   float: right;
   height: 36px;
@@ -21,6 +25,7 @@ ul {
   padding: 10px 30px;
   text-align: right;
 }
+
 .navigation-texts {
   float: left;
   height: 36px;
@@ -29,6 +34,7 @@ ul {
   font-weight: 400;
   line-height: 1.5;
 }
+
 .btn {
   color: white;
   cursor: pointer;
@@ -36,19 +42,23 @@ ul {
   background: #0077c5;
   border: 1px solid #4c4c4c;
 }
+
 #btn-signin {
   height: 34px;
   padding: 0 20px;
 }
+
 button img {
   height: 15px;
   vertical-align: middle;
 }
+
 /* Header styles */
 #logo-container {
   margin: 0 0;
   text-align: center;
 }
+
 /* Form styles */
 .form-container {
   width: 400px;
@@ -59,28 +69,34 @@ button img {
   background-color: white !important;
   border: 1px solid #c7c7c7;
 }
+
 #eco-systems-logos {
   width: 100%;
   padding-top: -12px;
 }
+
 ul {
   text-align: center;
   padding-inline-start: 0px;
 }
+
 li {
   display: inline-block;
 }
+
 hr {
   border: 0;
   width: 318px;
   text-align: left;
   border-top: 1px solid #e2e1e1;
 }
+
 #sign-in-header {
   color: #4c4c4c;
   font-size: 24px;
   line-height: 1.1;
 }
+
 #sub-sign-in-header {
   width: 318px;
   margin: 0 auto;
@@ -90,12 +106,15 @@ hr {
   line-height: 1.2;
   padding-top: 20px;
 }
+
 #sub-sign-in-header a {
-  color: #0077C5;
+  color: #0077c5;
 }
+
 .form-controls {
   display: block;
 }
+
 fieldset {
   border: 0;
   width: 320px;
@@ -104,15 +123,18 @@ fieldset {
   text-align: left;
   padding-top: 30px;
 }
+
 .user-label {
-  color: #4C4C4C;
+  color: #4c4c4c;
   font-size: 14px;
   font-weight: 400;
   line-height: 25px;
 }
+
 .txt-input-container {
   width: 320px;
 }
+
 .txt-input {
   height: 34px;
   width: 320px;
@@ -120,12 +142,14 @@ fieldset {
   padding-left: 8px;
   padding-right: 6px;
   border-radius: 3px;
-  border: 1px solid #C1C5C8;
+  border: 1px solid #c1c5c8;
 }
+
 #phone-sub-text {
-  color: #4C4C4C;
+  color: #4c4c4c;
   font-size: 12px;
 }
+
 #lock-img {
   left: 300px;
   width: 22px;
@@ -136,6 +160,7 @@ fieldset {
   background-repeat: no-repeat;
   background-image: url(../images/lock-left-grey@3x.png);
 }
+
 .btn-actions {
   height: 44px;
   width: 336px;
@@ -144,18 +169,21 @@ fieldset {
   border-radius: 4px;
   box-shadow: 2px 2px grey;
 }
+
 #btn-create-account {
   width: 100%;
   height: 44px;
   font-size: 16px;
-  border: #0077C5;
+  border: #0077c5;
   text-transform: capitalize;
 }
+
 #form-footer {
   color: #bbb;
   font-size: 12px;
   margin-top: 30px;
 }
+
 #form-footer-bottom {
   color: #bbb;
   background-color: #eceef1;
@@ -163,6 +191,7 @@ fieldset {
   margin-top: 30px;
   padding: 21px;
 }
+
 /* Footer Page styles */
 .footer-logo {
   height: 45px;
@@ -171,22 +200,27 @@ fieldset {
   margin-top: 40px;
   text-align: center;
 }
+
 .footer-logo img {
   height: 25px;
   display: inline-block;
 }
+
 #footer-text-container {
-  color: #4C4C4C;
+  color: #4c4c4c;
   font-size: 12px;
   text-align: center;
   margin-bottom: 50px;
 }
+
 #footer-text-container a {
-  color: #4C4C4C;
+  color: #4c4c4c;
 }
+
 #footer-text-container ul {
   margin-left: -40px;
 }
+
 #footer-text-container li {
-  margin-left:10px;
+  margin-left: 10px;
 }
