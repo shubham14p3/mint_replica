@@ -1,7 +1,7 @@
 /* General styles */
 body {
   background-color: #eceef1;
-  font-family: AvenirNext,Avenir,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-family: AvenirNext, Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -11,6 +11,8 @@ a {
 
 ul {
   list-style-type: none;
+  text-align: center;
+  padding-inline-start: 0px;
 }
 
 /* Top styles */
@@ -73,11 +75,6 @@ button img {
 #eco-systems-logos {
   width: 100%;
   padding-top: -12px;
-}
-
-ul {
-  text-align: center;
-  padding-inline-start: 0px;
 }
 
 li {
