@@ -12,7 +12,7 @@ a {
 ul {
   list-style-type: none;
   text-align: center;
-  padding-inline-start: 0px;
+  padding-inline-start: 0;
 }
 
 /* Top styles */
